@@ -1,0 +1,3 @@
+[submodule "PNM"]
+	path = PNM
+	url = https://github.com/dmilos/PNM.git
